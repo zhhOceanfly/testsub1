@@ -1,3 +1,4 @@
 [submodule "test2"]
 	path = test2
 	url = git@github.com:zhhOceanfly/testsub2.git
+	branch = v1.4
